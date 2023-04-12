@@ -1,3 +1,1 @@
-print("hello world")
-print("my name is ...")
-print("prime number")
+print("my name is ali...")
